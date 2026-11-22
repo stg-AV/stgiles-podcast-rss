@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>St Giles Church Northampton</title>
+    <link>https://www.stgilesnorthampton.org.uk</link>
+    <language>en-gb</language>
+    <description>Sunday talks from St Giles Church, Northampton.</description>
+    <atom:link href="https://script.google.com/macros/s/AKfycbyw5vEQuSJ7xSLaRm7u2k0SZiola9bIlYvF2bPRaCdHadPxF1_MbKIqh1jAdNxNfrKcUw/exec" rel="self" type="application/rss+xml"/>
+    <itunes:author>St Giles Church Northampton</itunes:author>
+    <itunes:owner>
+      <itunes:name>St Giles Church</itunes:name>
+      <itunes:email>av@stgilesnorthampton.org.uk</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://drive.google.com/file/d/1ZGy2EoI-kza2Nh9npC3kDqrXioMBIIT_/view?usp=drive_link"/>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Christianity"/>
+    </itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Ephesians_1_15-23</title>
+      <description>Ephesians_1_15-23</description>
+      <pubDate>Sun, 22 Nov 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="false">10GYU_tnVxmGdu_id2-pNYrbPwiGR_e3I</guid>
+      <enclosure url="https://drive.usercontent.google.com/download?id=10GYU_tnVxmGdu_id2-pNYrbPwiGR_e3I&amp;export=download&amp;confirm=t" length="47256764" type="audio/mpeg"/>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>
