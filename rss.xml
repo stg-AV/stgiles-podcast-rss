@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>St Giles Church Northampton</title>
+    <link>https://www.stgilesnorthampton.org.uk</link>
+    <language>en-gb</language>
+    <description>Sunday talks from St Giles Church, Northampton.</description>
+    <atom:link href="https://stg-av.github.io/stgiles-podcast-rss/rss.xml" rel="self" type="application/rss+xml"/>
+    <itunes:author>St Giles Church Northampton</itunes:author>
+    <itunes:owner>
+      <itunes:name>St Giles Church</itunes:name>
+      <itunes:email>av@stgilesnorthampton.org.uk</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://drive.google.com/file/d/1ZGy2EoI-kza2Nh9npC3kDqrXioMBIIT_/view?usp=drive_link"/>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Christianity"/>
+    </itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Ephesians_1_15-23(PM)</title>
+      <description>Ephesians_1_15-23(PM)</description>
+      <pubDate>Sun, 22 Nov 2026 20:00:00 GMT</pubDate>
+      <guid isPermaLink="false">107dFHJl-VhRbBr2qcXYPtq9sUKICYFTT</guid>
+      <enclosure url="https://drive.usercontent.google.com/download?id=107dFHJl-VhRbBr2qcXYPtq9sUKICYFTT&amp;export=download&amp;confirm=t" length="44786348" type="audio/mpeg"/>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Ephesians_1_15-23(AM)</title>
+      <description>Ephesians_1_15-23(AM)</description>
+      <pubDate>Sun, 22 Nov 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="false">10GYU_tnVxmGdu_id2-pNYrbPwiGR_e3I</guid>
+      <enclosure url="https://drive.usercontent.google.com/download?id=10GYU_tnVxmGdu_id2-pNYrbPwiGR_e3I&amp;export=download&amp;confirm=t" length="47256764" type="audio/mpeg"/>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>2_Corinthians_9(AM)</title>
+      <description>2_Corinthians_9(AM)</description>
+      <pubDate>Sun, 15 Nov 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="false">1XzNz7jsjPBoxoXO4F5VB-uwh9PDZ3lEK</guid>
+      <enclosure url="https://drive.usercontent.google.com/download?id=1XzNz7jsjPBoxoXO4F5VB-uwh9PDZ3lEK&amp;export=download&amp;confirm=t" length="15909017" type="audio/mpeg"/>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Rememberance Sunday_Matthew_5_1(AM)</title>
+      <description>Rememberance Sunday_Matthew_5_1(AM)</description>
+      <pubDate>Sun, 08 Nov 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="false">1RpXvLtlixyBrWR5SvdRA3BOkG9MgDCsu</guid>
+      <enclosure url="https://drive.usercontent.google.com/download?id=1RpXvLtlixyBrWR5SvdRA3BOkG9MgDCsu&amp;export=download&amp;confirm=t" length="21329833" type="audio/mpeg"/>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>1_Corinthians_13(PM)</title>
+      <description>1_Corinthians_13(PM)</description>
+      <pubDate>Sun, 11 Oct 2026 19:00:00 GMT</pubDate>
+      <guid isPermaLink="false">170t8sMVL_K1AykzAL29wqNrvAgjIgHIT</guid>
+      <enclosure url="https://drive.usercontent.google.com/download?id=170t8sMVL_K1AykzAL29wqNrvAgjIgHIT&amp;export=download&amp;confirm=t" length="24141078" type="audio/mpeg"/>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>1_Corinthians_13(AM)</title>
+      <description>1_Corinthians_13(AM)</description>
+      <pubDate>Sun, 11 Oct 2026 11:00:00 GMT</pubDate>
+      <guid isPermaLink="false">1Vnf-jen4DgJQcgX502FPOLs8nA6rbItE</guid>
+      <enclosure url="https://drive.usercontent.google.com/download?id=1Vnf-jen4DgJQcgX502FPOLs8nA6rbItE&amp;export=download&amp;confirm=t" length="19953318" type="audio/mpeg"/>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>1_John_3(AM)</title>
+      <description>1_John_3(AM)</description>
+      <pubDate>Sun, 27 Sep 2026 11:00:00 GMT</pubDate>
+      <guid isPermaLink="false">1eMEeAkF0otadD1JK0sS1pOkewN_0GGd_</guid>
+      <enclosure url="https://drive.usercontent.google.com/download?id=1eMEeAkF0otadD1JK0sS1pOkewN_0GGd_&amp;export=download&amp;confirm=t" length="34976653" type="audio/mpeg"/>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>1_John_2_15-29(PM)</title>
+      <description>1_John_2_15-29(PM)</description>
+      <pubDate>Sun, 20 Sep 2026 19:00:00 GMT</pubDate>
+      <guid isPermaLink="false">1AEoQR-8lnO6ZDTPlCS5ghM_t7k-RYLYu</guid>
+      <enclosure url="https://drive.usercontent.google.com/download?id=1AEoQR-8lnO6ZDTPlCS5ghM_t7k-RYLYu&amp;export=download&amp;confirm=t" length="18200934" type="audio/mpeg"/>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>1_John_2_15-29(AM)</title>
+      <description>1_John_2_15-29(AM)</description>
+      <pubDate>Sun, 20 Sep 2026 11:00:00 GMT</pubDate>
+      <guid isPermaLink="false">1OEKKsx26FmlwMRHdFgKGhgD3qklrrkcl</guid>
+      <enclosure url="https://drive.usercontent.google.com/download?id=1OEKKsx26FmlwMRHdFgKGhgD3qklrrkcl&amp;export=download&amp;confirm=t" length="16085029" type="audio/mpeg"/>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>1_John_2_3-14(AM)</title>
+      <description>1_John_2_3-14(AM)</description>
+      <pubDate>Sun, 13 Sep 2026 11:00:00 GMT</pubDate>
+      <guid isPermaLink="false">1i9VCmOF4_-qTFoZ_irwkfQNaJR_fsBaM</guid>
+      <enclosure url="https://drive.usercontent.google.com/download?id=1i9VCmOF4_-qTFoZ_irwkfQNaJR_fsBaM&amp;export=download&amp;confirm=t" length="17005113" type="audio/mpeg"/>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>1_John_1-2</title>
+      <description>1_John_1-2</description>
+      <pubDate>Sun, 06 Sep 2026 19:00:00 GMT</pubDate>
+      <guid isPermaLink="false">1-InlZTuq_NL9bLAHjBHbqvZRwy6A-Y6B</guid>
+      <enclosure url="https://drive.usercontent.google.com/download?id=1-InlZTuq_NL9bLAHjBHbqvZRwy6A-Y6B&amp;export=download&amp;confirm=t" length="21414724" type="audio/mpeg"/>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>
